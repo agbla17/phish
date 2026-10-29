@@ -1,0 +1,8 @@
+{
+  "name": "PhishGuard",
+  "description": "Enterprise phishing detection platform featuring multi-engine email content analysis, sender address verification & spoofing inspection, website URL scanning, SHAP explainability charts, and Gmail inbox security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
